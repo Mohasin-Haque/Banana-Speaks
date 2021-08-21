@@ -55,9 +55,9 @@ textarea {
     border-radius: 1rem;
  }
 
- .op{
-     margin-left: 15rem;
- }
+ /* .op{
+     margin-left:;
+ } */
 
  .footer {
     background-color: var(--primary-color);
