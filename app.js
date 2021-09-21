@@ -11,7 +11,7 @@ function getTranslationURL(input) {
 
 function errorHandler(error){
     console.log("error occured", error);
-    alert("somethig went wrong.. please try again.")
+    alert("something went wrong.. please try again.")
 }
 
 function clickHandler() {
