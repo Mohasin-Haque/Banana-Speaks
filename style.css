@@ -10,8 +10,10 @@ body{
     width: 100%;
     height: auto;
     margin: 0px;
-}
+    background-image: url("./minion.jpg");
+    max-width: 100%;
 
+}
 .heading{
     background-color: var(--primary-color);
     margin: 0;
